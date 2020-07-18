@@ -17,6 +17,11 @@ The web application should allow users to input the name of burgers they would l
 
 ## Links for Submission
 
+Links to submission items will be provided once the assignment is complete.
+
+- Link to GitHub repo - [Repo for Burger Logger](https://github.com/KEDuran/Burger_Logger)
+- Link to Deployed Burger Logger App - [Burger Logger App on Heroku](https://ked-burger-blogger.herokuapp.com/burgers)
+
 ## Assignment Scope
 
 Here is the user story scenario that was provided by the Trilogy team that describes the purpose surrounding this web application.
