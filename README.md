@@ -5,9 +5,9 @@
 ![npm](https://img.shields.io/npm/v/express?color=yellow&label=Express&logo=NPM&logoColor=white)
 ![npm](https://img.shields.io/npm/v/express-handlebars?color=violet&label=Express-handlebars&logo=NPM&logoColor=white)
 
-### Disclaimer for Assignment
+## Disclaimer for Assignment
 
-The solution for this homework assignment was provided by our instructor during class. All code is this repo is from the provided solution.
+**_The solution for this homework assignment was provided by our instructor during class. All code is this repo is from the provided solution._**
 
 ## Description
 
