@@ -7,17 +7,17 @@
 
 ## Disclaimer for Assignment
 
-**_The solution for this homework assignment was provided by our instructor during class. All code is this repo is from the provided solution._**
+**_In order to give the class more time to focus on Assignment #14, the solution for this homework assignment was provided by our instructor during class. All code is this repo is from the provided solution._**
 
 ## Description
 
-The main goal for this assignment is develop full-stack restaurant web application with MySQL, Node, Express, Handlebars and object relational mapping (ORM).
+The main goal for this assignment is develop a full-stack restaurant web application with MySQL, Node, Express, Handlebars, and object relational mapping (ORM).
 
-The web application should allow users to input the name of burgers they would like to eat, which will be saved in a "waiting area" on the left-side of we application's homepage. There should also be an additional "devour it" button that will move the burger to the right-side of the homepage with the button is clicked.
+The web application should allow users to input the name of burgers they would like to eat, which will then be saved in a "waiting area" on the left-side of web application's homepage. There should also be an additional "devour it" button that will allow any burger(s) to move to the right-side of the homepage with the button is clicked.
 
 ## Links for Submission
 
-Links to submission items will be provided once the assignment is complete.
+Here are the links to the submission items for this assignment.
 
 - Link to GitHub repo - [Repo for Burger Logger](https://github.com/KEDuran/Burger_Logger)
 - Link to Deployed Burger Logger App - [Burger Logger App on Heroku](https://ked-burger-blogger.herokuapp.com/burgers)
